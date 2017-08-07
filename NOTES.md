@@ -11,3 +11,4 @@ eg：
 >>> from ex25 import *
    function_name()
 ```
+5. 3个单引号和3个双引号的区别，没区别，只是风格问题。
